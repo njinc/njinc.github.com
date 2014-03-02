@@ -9,4 +9,4 @@ tags: [homebrew]
 
 
 
-![test image]({{ site.url }}/assets/homebrew/IMG_20140301_115440.jpg)
+![test image]({{ site.url }}/assets/images/homebrew/IMG_20140301_115440.jpg)
