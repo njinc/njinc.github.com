@@ -6,3 +6,7 @@ category:
 tags: [homebrew]
 ---
 {% include JB/setup %}
+
+
+
+![test image]({{ site.url }}/assets/homebrew/IMG_20140301_115440.jpg)
